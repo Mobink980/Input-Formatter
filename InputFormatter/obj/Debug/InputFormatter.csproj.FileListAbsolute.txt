@@ -1,0 +1,10 @@
+E:\programs\Visual Studio\InputFormatter\bin\Debug\InputFormatter.exe.config
+E:\programs\Visual Studio\InputFormatter\bin\Debug\InputFormatter.exe
+E:\programs\Visual Studio\InputFormatter\bin\Debug\InputFormatter.pdb
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.csprojAssemblyReference.cache
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.Form1.resources
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.Properties.Resources.resources
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.csproj.GenerateResource.cache
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.csproj.CoreCompileInputs.cache
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.exe
+E:\programs\Visual Studio\InputFormatter\obj\Debug\InputFormatter.pdb
